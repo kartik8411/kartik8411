@@ -34,11 +34,11 @@ I’ve developed a Simple Keylogger using      Python’s powerful pynput librar
 
 Certifications
 
-  AVANTEIA CERTIFIED CYBER SECURITY USER
-  Mastercard - Cybersecurity Job Simulation
-  Tata Group - Cybersecurity Analyst Job Simulation
-  Bug Bounty - Ethical Hacking
-  SQL Injection Workshop Course Certificate in Cyber Security – Bhalchandra Technologies
+  - AVANTEIA CERTIFIED CYBER SECURITY USER
+  - Mastercard - Cybersecurity Job Simulation
+  - Tata Group - Cybersecurity Analyst Job Simulation
+  - Bug Bounty - Ethical Hacking
+  - SQL Injection Workshop Course Certificate in Cyber Security – Bhalchandra Technologies
 
   Resume
 
