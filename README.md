@@ -4,12 +4,12 @@ Security Analyst | Ethical Hacker | Penetration Tester
 
 About Me
 
-I am a cybersecurity professional with hands-on experience as an intern at Avanteia, where I developed skills in network security and vulnerability assessment. I have worked on projects like a Port Scanner, Keylogger, and Password Generator, enhancing my knowledge of ethical hacking and security tools. I am passionate about cybersecurity and actively seek opportunities to apply my skills and grow.
+I am a cybersecurity professional with hands-on experience as an intern at Avanteia, where I developed skills in network security and vulnerability assessment. I have worked on projects like a Port Scanner, Keylogger, and Password Generator, enhancing my knowledge of ethical hacking and security tools. I am passionate about cybersecurity and actively seek opportunities to apply my skills and grow in the field.
 
 Skills
 
-Languages: Python, bash, javascript, PowerShell.
-Cybersecurity: VAPT, Vulnerability Assessment, Penetration Testing tools:-
+Languages: Python, bash, PowerShell, javascript
+Cybersecurity: VAPT, Vulnerability Assessment, Penetration Testing tools:- Burpsuite, Wireshark, Nmap, Metasploit
 
 EDUCATION 
 
