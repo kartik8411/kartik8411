@@ -12,8 +12,8 @@ Languages: Python, bash, javascript, PowerShell.
 Cybersecurity: VAPT, Vulnerability Assessment, Penetration Testing tools:-
 
 EDUCATION 
-Bachelor of Computer Applications (BCA) 2021 - 2024 | Completed SRIDORA CACULO COLLEGE OF COMMERCE & MANAGEMENT STUDIES
 
+Bachelor of Computer Applications (BCA) 2021 - 2024 | Completed SRIDORA CACULO COLLEGE OF COMMERCE & MANAGEMENT STUDIES
 ST Theresa Higher Secondary School | ARTs stream 2019-2021 | Completed
 
 
