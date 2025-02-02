@@ -46,7 +46,8 @@ Certifications
   - Mastercard - Cybersecurity Job Simulation
   - Tata Group - Cybersecurity Analyst Job Simulation
   - Bug Bounty - Ethical Hacking
-  - SQL Injection Workshop Course Certificate in Cyber Security – Bhalchandra Technologies
+  - SQL Injection - Ec Council
+  -  Workshop Course Certificate in Cyber Security – Bhalchandra Technologies
 
   Resume
 
