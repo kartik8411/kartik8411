@@ -30,12 +30,15 @@ Projects
 
 Encryption and Decryption using RSA and Fernet
 Developed encryption and decryption functionality using RSA (asymmetric encryption) and Fernet (symmetric encryption).
+
 Cybersecurity Tools 
 Created an educational video on cybersecurity tools including Nmap, Nikto, BeEf, OpenSSL, tcpick, Wireshark, etc. demonstrating their usage in penetration testing, vulnerability scanning, and network analysis.
+
 Random Password Generator
 Developed a tool that generates random passwords with different types of characters.
+
 Keylogger
-I’ve developed a Simple Keylogger using      Python’s powerful pynput library.
+I’ve developed a Simple Keylogger using Python’s powerful pynput library.
 
 Certifications
 
@@ -48,7 +51,8 @@ Certifications
   Resume
 
 Click here to view my resume
-Educational Content
+
+
 
 
 
@@ -56,12 +60,6 @@ Connect with Me
 
    <a href="https://twitter.com/kartikg91125649" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartikg91125649" height="30" width="40" /></a><a href="https://linkedin.com/https://www.linkedin.com/in/kartikgupta007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kartikgupta007" height="30" width="40" /></a><a href="https://instagram.com/https://www.instagram.com/in/kartikgupta9014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kartikgupta9014" height="30" width="40" /></a>
 </p>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 kartik8411/kartik8411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
