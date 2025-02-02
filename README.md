@@ -27,6 +27,7 @@ Work Experience
 
 
 Projects
+
 Encryption and Decryption using RSA and Fernet
 Developed encryption and decryption functionality using RSA (asymmetric encryption) and Fernet (symmetric encryption).
 Cybersecurity Tools 
