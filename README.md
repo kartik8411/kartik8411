@@ -61,10 +61,14 @@ Click here to view my resume
 
 
 Connect with Me
- <a href="https://www.instagram.com/kartikgupta9014" class="fab fa-instagram" aria-label="Instagram" target="_blank"></a
+ <a href="https://www.linkedin.com/in/kartikgupta007" class="fab fa-linkedin" aria-label="LinkedIn" target="_blank"></a>
+  <a href="https://github.com/kartik8411" class="fab fa-github" aria-label="GitHub" target="_blank"></a>
+  <a href="kartikgupta9373@gmail.com" class="fas fa-envelope" aria-label="Mail" target="_blank"></a>
+              <a href="https://x.com/KartikG91125649" class="fab fa-twitter" aria-label="Twitter" target="_blank"></a>
+              <a href="https://www.instagram.com/kartikgupta9014" class="fab fa-instagram" aria-label="Instagram" target="_blank"></a>
     
 
-<a href="https://twitter.com/kartikg91125649" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartikg91125649" height="30" width="40" /></a><a href="https://linkedin.com/https://www.linkedin.com/in/kartikgupta007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kartikgupta007" height="30" width="40" /></a><a href="https://instagram.com/https://www.instagram.com/in/kartikgupta9014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kartikgupta9014" height="30" width="40" /></a>
+
 </p>
 
 <!---
