@@ -61,11 +61,11 @@ Click here to view my resume
 
 
 Connect with Me
- <a href="https://www.linkedin.com/in/kartikgupta007" class="fab fa-linkedin" aria-label="LinkedIn" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/kartikgupta007" class="fab fa-LinkedIn" aria-label="LinkedIn" target="_blank"></a>
   <a href="https://github.com/kartik8411" class="fab fa-github" aria-label="GitHub" target="_blank"></a>
   <a href="kartikgupta9373@gmail.com" class="fas fa-envelope" aria-label="Mail" target="_blank"></a>
-              <a href="https://x.com/KartikG91125649" class="fab fa-twitter" aria-label="Twitter" target="_blank"></a>
-              <a href="https://www.instagram.com/kartikgupta9014" class="fab fa-instagram" aria-label="Instagram" target="_blank"></a>
+  <a href="https://x.com/KartikG91125649" class="fab fa-twitter" aria-label="Twitter" target="_blank"></a>
+              <a href="https://www.instagram.com/kartikgupta9014" class="fab fa-Instagram" aria-label="Instagram" target="_blank"></a>
     
 
 
