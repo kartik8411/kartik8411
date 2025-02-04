@@ -29,6 +29,26 @@ I am a cybersecurity professional with hands-on experience as an intern at Avant
 
 
 <h1>Projects</h1>
+<h2>Port Scanner (Python)</h2>
+<h3>Description: Developed a custom port scanner to scan specified hosts and port ranges, identifying open and closed ports using Python.</h3>
+
+<h2>Key Features:</h2>
+
+ - <h3>Socket Programming: Established connections with target ports.</h3>
+ - <h3>Multi-threading: Accelerated scans by processing multiple ports simultaneously.</h3>
+ - <h3>Timeout/Error Handling: Included mechanisms to manage slow connections and errors.</h3>
+
+<h3>Technologies: Python, socket, threading, colorama, pyfiglet, </h3>
+
+<h3>Skills: Enhanced Python, networking, multi-threading, performance optimization.</h3>
+
+
+
+
+
+
+
+
 
 Encryption and Decryption using RSA and Fernet
 Developed encryption and decryption functionality using RSA (asymmetric encryption) and Fernet (symmetric encryption).
