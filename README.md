@@ -8,7 +8,7 @@
 
 About Me
 
-I am a cybersecurity professional with hands-on experience as an intern at Avanteia, where I developed skills in network security and vulnerability assessment. I have worked on projects like a Port Scanner, Keylogger, and Password Generator, enhancing my knowledge of ethical hacking and security tools. I am passionate about cybersecurity and actively seek opportunities to apply my skills and grow in the field.
+I am a cybersecurity professional with hands-on experience as an intern at Avanteia, where I developed skills in network security and vulnerability assessment. I have worked on projects like a Port Scanner, Keylogger, and Password Generator, enhancing my knowledge of ethical hacking and security tools. I am passionate about cybersecurity and actively seek opportunities to apply my skills and  grow in the field.
 
 Skills
 
@@ -70,7 +70,8 @@ Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kartikgupta9014)
 
 
-    
+  Language and Tools
+
 
 
 </p>
