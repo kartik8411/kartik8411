@@ -2,6 +2,9 @@
 
 Security Analyst | Ethical Hacker | Penetration Tester
 
+<img align="right alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/aa66627e-f2a9-4d32-b996-7bcc9d931548)
+">
+
 About Me
 
 I am a cybersecurity professional with hands-on experience as an intern at Avanteia, where I developed skills in network security and vulnerability assessment. I have worked on projects like a Port Scanner, Keylogger, and Password Generator, enhancing my knowledge of ethical hacking and security tools. I am passionate about cybersecurity and actively seek opportunities to apply my skills and grow in the field.
