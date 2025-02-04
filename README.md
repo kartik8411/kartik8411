@@ -8,18 +8,18 @@
 
 <h2>About Me</h2>
 
-I am a cybersecurity professional with hands-on experience as an intern at Avanteia, where I developed skills in network security and vulnerability assessment. I have worked on projects like a Port Scanner, Keylogger, and Password Generator, enhancing my knowledge of ethical hacking and security tools. I am passionate about cybersecurity and actively seek opportunities to apply my skills and  grow in the field.
+<p>I am a cybersecurity professional with hands-on experience as an intern at Avanteia, where I developed skills in network security and vulnerability assessment. I have worked on projects like a Port Scanner, Keylogger, and Password Generator, enhancing my knowledge of ethical hacking and security tools. I am passionate about cybersecurity and actively seek opportunities to apply my skills and  grow in the field.</p>
 
 <h2>Skills</h2>
 
-Languages: Python, bash, PowerShell, javascript
-Cybersecurity: VAPT, Vulnerability Assessment, Penetration Testing tools:- Burpsuite, Wireshark, Nmap, Metasploit
+<p>Languages: Python, bash, PowerShell, javascript
+Cybersecurity: VAPT, Vulnerability Assessment, Penetration Testing tools:- Burpsuite, Wireshark, Nmap, Metasploit</p>
 
 <h2>EDUCATION </h2>
 
 Bachelor of Computer Applications (BCA) 2021 - 2024 | Completed SRIDORA CACULO COLLEGE OF COMMERCE & MANAGEMENT STUDIES
 
-ST Theresa Higher Secondary School | ARTs stream 2019-2021 | Completed
+St. Theresa's Higher Secondary School | ARTs stream 2019-2021 | Completed
 
 <h2>Work Experiences </h2>
 
@@ -53,15 +53,15 @@ I’ve developed a Simple Keylogger using Python’s powerful pynput library.
   - SQL Injection - Ec Council
   -  Workshop Course Certificate in Cyber Security – Bhalchandra Technologies
 
-  Resume
+ <h2>Resume</h2> 
 
-Click here to view my resume
-
-
+[Kartik Gupta Resume](https://www.canva.com/design/DAGMmKy0ysg/08d1Uj1N9ONrfqKtqBb2lg/view?utm_content=DAGMmKy0ysg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb150b14e65)
 
 
 
-Connect with Me
+
+
+
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikgupta007)
