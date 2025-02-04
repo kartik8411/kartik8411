@@ -2,7 +2,7 @@
 
 Security Analyst | Ethical Hacker | Penetration Tester
 
-<img align="right alt="coding" width="400" src="https://github.com/user-attachments/assets/aa66627e-f2a9-4d32-b996-7bcc9d931548">
+<img align="right alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbklhd2J3VzJPc1ltRklYdWVlVUYwUnlZbzZPZ3xBQ3Jtc0trRjdXVzhUMzhHMTFzSXVDdzhCVjdScU04MXhpdUFyTTRwQ2QxVEc3M3dUSWRPZ3pMTjBlcjRRa1hzNlFtdkw1NG9rd1o3NDJPd2VGVlZ4T1F1Z0NCOEtEZm5JOVJVcmV6VXVTb0tCMnNUTVkxMGtHOA&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
 
 About Me
 
