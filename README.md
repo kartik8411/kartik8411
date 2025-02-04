@@ -6,31 +6,29 @@
 
 
 
-<h2>About Me</h2>
+<h1>About Me</h1>
 
-<p>I am a cybersecurity professional with hands-on experience as an intern at Avanteia, where I developed skills in network security and vulnerability assessment. I have worked on projects like a Port Scanner, Keylogger, and Password Generator, enhancing my knowledge of ethical hacking and security tools. I am passionate about cybersecurity and actively seek opportunities to apply my skills and  grow in the field.</p>
+<h2><p>Welcome to my GitHub portfolio!
+I am a cybersecurity professional with hands-on experience as an intern at Avanteia, where I developed skills in network security and vulnerability assessment. I’ve worked on projects like a Port Scanner, Keylogger, and Password Generator, which have helped me enhance my knowledge of ethical hacking and security tools. As a dedicated professional, I am committed to leveraging my skills and experiences to drive innovation and contribute to impactful projects within the cybersecurity landscape.</p></h2>
 
-<h2>Skills</h2>
+<h1>Skills</h1>
 
-<p>Languages: Python, bash, PowerShell, javascript
-Cybersecurity: VAPT, Vulnerability Assessment, Penetration Testing tools:- Burpsuite, Wireshark, Nmap, Metasploit</p>
+<h2><p>Languages: Python, bash, PowerShell, javascript</p></h2>
+<h2>Cybersecurity: VAPT, Vulnerability Assessment, Penetration Testing tools:- Burpsuite, Wireshark, Nmap, Metasploit</p></h2>
 
-<h2>EDUCATION </h2>
+<h1>EDUCATION </h1>
 
-Bachelor of Computer Applications (BCA) 2021 - 2024 | Completed SRIDORA CACULO COLLEGE OF COMMERCE & MANAGEMENT STUDIES
+- <h2>Bachelor of Computer Applications (BCA) 2021 - 2024 | Completed SRIDORA CACULO COLLEGE OF COMMERCE & MANAGEMENT STUDIES</h2>
 
-St. Theresa's Higher Secondary School | ARTs stream 2019-2021 | Completed
+- <h2>St. Theresa's Higher Secondary School | ARTs stream 2019-2021 | Completed</h2>
 
-<h2>Work Experiences </h2>
+<h1>Work Experiences </h1>
 
-Cyber Security Intern |  Avanteia | May-2024  - July 2024(3 months)
-I did a three-month internship at Avanteia. I learned about various website attacks, such as SQLI, XSS, CSRF, SSRF, Business Logic Vulnerabilities, Brute force, Clickjacking, and Path Traversal. I also learned how to gather info about a website. I used scanning tools, like OWASP ZAP, OpenVAS, NESSUS, and WPscan. I am familiar with Windows, Kali Linux, and Parrot OS. I am also familiar with Burp Suite, Metasploit, Nmap, etc.
-Work Experience
-
-
+<h2>Cyber Security Intern |  Avanteia | May-2024  - July 2024(3 months)</h2>
+<h3>I did a three-month internship at Avanteia. I learned about various website attacks, such as SQLI, XSS, CSRF, SSRF, Business Logic Vulnerabilities, Brute force, Clickjacking, and Path Traversal. I also learned how to gather info about a website. I used scanning tools, like OWASP ZAP, OpenVAS, NESSUS, and WPscan. I am familiar with Windows, Kali Linux, and Parrot OS. I am also familiar with Burp Suite, Metasploit, Nmap, etc.</h3>
 
 
-<h2>Projects</h2>
+<h1>Projects</h1>
 
 Encryption and Decryption using RSA and Fernet
 Developed encryption and decryption functionality using RSA (asymmetric encryption) and Fernet (symmetric encryption).
@@ -44,16 +42,16 @@ Developed a tool that generates random passwords with different types of charact
 Keylogger
 I’ve developed a Simple Keylogger using Python’s powerful pynput library.
 
-<h2>Certifications</h2>
+<h1>Certifications</h1>
 
-  - AVANTEIA CERTIFIED CYBER SECURITY USER
-  - Mastercard - Cybersecurity Job Simulation
-  - Tata Group - Cybersecurity Analyst Job Simulation
-  - Bug Bounty - Ethical Hacking
-  - SQL Injection - Ec Council
-  -  Workshop Course Certificate in Cyber Security – Bhalchandra Technologies
+  - <h2>AVANTEIA CERTIFIED CYBER SECURITY USER</h2>
+  - <h2>Mastercard - Cybersecurity Job Simulation</h2>
+  - <h2>Tata Group - Cybersecurity Analyst Job Simulation</h2>
+  - <h2>Bug Bounty - Ethical Hacking</h2>
+  - <h2>SQL Injection - Ec Council</h2>
+  - <h2>Workshop Course Certificate in Cyber Security – Bhalchandra Technologies</h2>
 
- <h2>Resume</h2> 
+ <h1>Resume</h1> 
 
 [Kartik Gupta Resume](https://www.canva.com/design/DAGMmKy0ysg/08d1Uj1N9ONrfqKtqBb2lg/view?utm_content=DAGMmKy0ysg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb150b14e65)
 
