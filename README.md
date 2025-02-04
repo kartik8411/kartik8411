@@ -1,3 +1,4 @@
+![logo](https://github.com/kartik8411/kartik8411/blob/main/banner.png)
 👋 Hi, I’m Kartik Gupta
 
 Security Analyst | Ethical Hacker | Penetration Tester
