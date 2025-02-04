@@ -1,7 +1,7 @@
 ![logo](https://github.com/kartik8411/kartik8411/blob/main/banner.png)
-👋 Hi, I’m Kartik Gupta
+<h1 align="center">👋 Hi, I’m Kartik Gupta</h1>
 
-Security Analyst | Ethical Hacker | Penetration Tester
+<h1 align="center"> Security Analyst | Ethical Hacker | Penetration Tester
 
 
 
@@ -62,11 +62,14 @@ Click here to view my resume
 
 
 Connect with Me
- <a href="https://www.linkedin.com/in/kartikgupta007" class="fab fa-LinkedIn" aria-label="LinkedIn" target="_blank"></a>
-  <a href="https://github.com/kartik8411" class="fab fa-github" aria-label="GitHub" target="_blank"></a>
-  <a href="kartikgupta9373@gmail.com" class="fas fa-envelope" aria-label="Mail" target="_blank"></a>
-  <a href="https://x.com/KartikG91125649" class="fab fa-twitter" aria-label="Twitter" target="_blank"></a>
-              <a href="https://www.instagram.com/kartikgupta9014" class="fab fa-Instagram" aria-label="Instagram" target="_blank"></a>
+
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikgupta007)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kartik8411)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KartikG91125649)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kartikgupta9014)
+
+
     
 
 
