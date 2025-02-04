@@ -6,22 +6,22 @@
 
 
 
-About Me
+<h2>About Me</h2>
 
 I am a cybersecurity professional with hands-on experience as an intern at Avanteia, where I developed skills in network security and vulnerability assessment. I have worked on projects like a Port Scanner, Keylogger, and Password Generator, enhancing my knowledge of ethical hacking and security tools. I am passionate about cybersecurity and actively seek opportunities to apply my skills and  grow in the field.
 
-Skills
+<h2>Skills</h2>
 
 Languages: Python, bash, PowerShell, javascript
 Cybersecurity: VAPT, Vulnerability Assessment, Penetration Testing tools:- Burpsuite, Wireshark, Nmap, Metasploit
 
-EDUCATION 
+<h2>EDUCATION </h2>
 
 Bachelor of Computer Applications (BCA) 2021 - 2024 | Completed SRIDORA CACULO COLLEGE OF COMMERCE & MANAGEMENT STUDIES
 
 ST Theresa Higher Secondary School | ARTs stream 2019-2021 | Completed
 
-Work Experiences 
+<h2>Work Experiences </h2>
 
 Cyber Security Intern |  Avanteia | May-2024  - July 2024(3 months)
 I did a three-month internship at Avanteia. I learned about various website attacks, such as SQLI, XSS, CSRF, SSRF, Business Logic Vulnerabilities, Brute force, Clickjacking, and Path Traversal. I also learned how to gather info about a website. I used scanning tools, like OWASP ZAP, OpenVAS, NESSUS, and WPscan. I am familiar with Windows, Kali Linux, and Parrot OS. I am also familiar with Burp Suite, Metasploit, Nmap, etc.
@@ -30,7 +30,7 @@ Work Experience
 
 
 
-Projects
+<h2>Projects</h2>
 
 Encryption and Decryption using RSA and Fernet
 Developed encryption and decryption functionality using RSA (asymmetric encryption) and Fernet (symmetric encryption).
@@ -44,7 +44,7 @@ Developed a tool that generates random passwords with different types of charact
 Keylogger
 I’ve developed a Simple Keylogger using Python’s powerful pynput library.
 
-Certifications
+<h2>Certifications</h2>
 
   - AVANTEIA CERTIFIED CYBER SECURITY USER
   - Mastercard - Cybersecurity Job Simulation
