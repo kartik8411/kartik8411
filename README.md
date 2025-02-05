@@ -56,11 +56,16 @@ Developed encryption and decryption functionality using RSA (asymmetric encrypti
 Cybersecurity Tools 
 Created an educational video on cybersecurity tools including Nmap, Nikto, BeEf, OpenSSL, tcpick, Wireshark, etc. demonstrating their usage in penetration testing, vulnerability scanning, and network analysis.
 
-Random Password Generator
-Developed a tool that generates random passwords with different types of characters.
+<h2>Random Password Generator</h2>
+<h3>Developed a tool that generates random passwords with different types of characters.</h3>
 
-Keylogger
-I’ve developed a Simple Keylogger using Python’s powerful pynput library.
+<h2>Keylogger (Educational Tool)</h2>
+<h3>GitHub Link: (https://lnkd.in/ggVcQ9uMi)</h3>
+<h3>  -  Developed a simple keylogger in Python using the pynput library to record keyboard input for educational purposes.</h3>
+<h3>  -  Focused on understanding input event handling, Python programming, and the ethical implications of security tools.</h3>
+<h3>  -  Emphasized responsible usage by ensuring the tool was only for educational use and with proper consent.</h3>
+<h3>  -  Gained experience in Python, security ethics, and software design.</h3>
+<h3>  -  Note: Tool is intended for educational purposes only and is intended to be used with explicit permission.</h3>
 
 <h1>Certifications</h1>
 
