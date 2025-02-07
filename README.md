@@ -69,8 +69,9 @@ Created an educational video on cybersecurity tools including Nmap, Nikto, BeEf,
 
 <h1>Certifications</h1>
 
-  - <a href="https://github.com/kartik8411/kartik8411/blob/main/Certifications/Avanteia%20Certificate.png"><h2>AVANTEIA CERTIFIED CYBER SECURITY USER</h2></a> 
-  - <h2>Mastercard - Cybersecurity Job Simulation</h2>
+  - <h2><a href="https://github.com/kartik8411/kartik8411/blob/main/Certifications/Avanteia%20Certificate.png">AVANTEIA CERTIFIED CYBER SECURITY USER</h2></a>
+
+  - <h2><a href="https://github.com/kartik8411/kartik8411/blob/main/Certifications/mastercard%20Certificate.png">Mastercard - Cybersecurity Job Simulation</h2></a>
   - <h2>Tata Group - Cybersecurity Analyst Job Simulation</h2>
   - <h2>Bug Bounty - Ethical Hacking</h2>
   - <h2>SQL Injection - Ec Council</h2>
