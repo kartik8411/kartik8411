@@ -6,23 +6,23 @@
 
 
 
-<h1>About Me</h1>
+# About Me
 
 <h2><p>Welcome to my GitHub portfolio!
 I am a cybersecurity professional with hands-on experience as an intern at Avanteia, where I developed skills in network security and vulnerability assessment. I’ve worked on projects like a Port Scanner, Keylogger, and Password Generator, which have helped me enhance my knowledge of ethical hacking and security tools. As a dedicated professional, I am committed to leveraging my skills and experiences to drive innovation and contribute to impactful projects within the cybersecurity landscape.</p></h2>
 
-<h1>Skills</h1>
+# Skills
 
 <h2><p>Languages: Python, bash, PowerShell, javascript</p></h2>
 <h2>Cybersecurity: VAPT, Vulnerability Assessment, Penetration Testing tools:- Burpsuite, Wireshark, Nmap, Metasploit</p></h2>
 
-<h1>EDUCATION </h1>
+# EDUCATION 
 
-- <h2>Bachelor of Computer Applications (BCA) 2021 - 2024 | Completed SRIDORA CACULO COLLEGE OF COMMERCE & MANAGEMENT STUDIES</h2>
+- ## Bachelor of Computer Applications (BCA) 2021 - 2024 | Completed SRIDORA CACULO COLLEGE OF COMMERCE & MANAGEMENT STUDIES
 
-- <h2>St. Theresa's Higher Secondary School | ARTs stream 2019-2021 | Completed</h2>
+- ## St. Theresa's Higher Secondary School | ARTs stream 2019-2021 | Completed
 
-<h1>Work Experiences </h1>
+# Work Experiences 
 
 <h2>Cyber Security Intern |  Avanteia | May-2024  - July 2024(3 months)</h2>
 <h3>I did a three-month internship at Avanteia. I learned about various website attacks, such as SQLI, XSS, CSRF, SSRF, Business Logic Vulnerabilities, Brute force, Clickjacking, and Path Traversal. I also learned how to gather info about a website. I used scanning tools, like OWASP ZAP, OpenVAS, NESSUS, and WPscan. I am familiar with Windows, Kali Linux, and Parrot OS. I am also familiar with Burp Suite, Metasploit, Nmap, etc.</h3>
