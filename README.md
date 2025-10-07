@@ -36,6 +36,22 @@
 
 <h1>Certifications</h1>
 
+  - [Cyber Security Intern](https://github.com/kartik8411/kartik8411/blob/main/Certifications/Avanteia%20Internship%20Certificate.png)
+  - [Cyber Security Intern](https://github.com/kartik8411/kartik8411/blob/main/Certifications/Avanteia%20Internship%20Certificate.png)
+  - [Cyber Security Intern](https://github.com/kartik8411/kartik8411/blob/main/Certifications/Avanteia%20Internship%20Certificate.png)
+  - [Cyber Security Intern](https://github.com/kartik8411/kartik8411/blob/main/Certifications/Avanteia%20Internship%20Certificate.png)
+  - [Cyber Security Intern](https://github.com/kartik8411/kartik8411/blob/main/Certifications/Avanteia%20Internship%20Certificate.png)
+  - [Cyber Security Intern](https://github.com/kartik8411/kartik8411/blob/main/Certifications/Avanteia%20Internship%20Certificate.png)
+  - [Cyber Security Intern](https://github.com/kartik8411/kartik8411/blob/main/Certifications/Avanteia%20Internship%20Certificate.png)
+  - [Cyber Security Intern](https://github.com/kartik8411/kartik8411/blob/main/Certifications/Avanteia%20Internship%20Certificate.png)
+  - [Cyber Security Intern](https://github.com/kartik8411/kartik8411/blob/main/Certifications/Avanteia%20Internship%20Certificate.png)
+  - [Cyber Security Intern](https://github.com/kartik8411/kartik8411/blob/main/Certifications/Avanteia%20Internship%20Certificate.png)
+
+
+
+
+
+  
   - <h3><a href="https://github.com/kartik8411/kartik8411/blob/main/Certifications/Avanteia%20Internship%20Certificate.png">Cyber Security Intern</a></h2>
   - <h3><a href="https://github.com/kartik8411/kartik8411/blob/main/Certifications/NullClass.pdf">Learn to Hack Real-Time Operating Systems</h2></a>
   - <h3><a href="https://github.com/kartik8411/kartik8411/blob/main/Certifications/Codanto%20Internship%20Certificate.png">Web Development Intern at Codanto</a></h2>
