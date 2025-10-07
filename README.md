@@ -27,7 +27,28 @@
 ### I did a three-month internship at Avanteia. I learned about various website attacks, such as SQLI, XSS, CSRF, SSRF, Business Logic Vulnerabilities, Brute force, Clickjacking, and Path Traversal. I also learned how to gather info about a website. I used scanning tools, such as  OWASP ZAP, OpenVAS,  and WPscan. I am familiar with Windows, Kali Linux, and Parrot OS. I am also familiar with Burp Suite, Metasploit, Nmap, etc.
 
 
-# Projects
+ 
+
+
+## 📂 Projects
+
+- [Port Scanner](https://github.com/kartik8411/Port-Scanner)
+- [Random Password Generator](https://github.com/kartik8411/password_Generator)
+- [Keylogger](https://github.com/kartik8411/Keylogger)
+- [Symmetric Encryption with Fernet](https://github.com/kartik8411/SymmetricEncrypt)
+- [Cybersecurity_Tools_Tutorial](https://github.com/kartik8411/Cybersecurity_Tools_Tutorial)
+- [Weather App](https://github.com/devAlice/weather-app)
+
+
+
+
+
+
+
+
+
+
+
 ## 1. Port Scanner 
 ### Description: Developed a custom port scanner to scan specified hosts and port ranges, identifying open and closed ports using Python.
 
