@@ -28,7 +28,7 @@
 
 
 # Projects
-## Port Scanner 
+## 1. Port Scanner 
 ### Description: Developed a custom port scanner to scan specified hosts and port ranges, identifying open and closed ports using Python.
 
 ## Key Features:
