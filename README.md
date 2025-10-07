@@ -46,22 +46,6 @@
   - [SQL Injection - Ec Council](https://github.com/kartik8411/kartik8411/blob/main/Certifications/EC%20Council%20Certificate.png)
   - [Workshop Course Certificate in Cyber Security – Bhalchandra Technologies](https://github.com/kartik8411/kartik8411/blob/main/Certifications/Workshop%20Certificate.png)
 
-
-
-
-
-
-  
-  - <h3><a href="https://github.com/kartik8411/kartik8411/blob/main/Certifications/Avanteia%20Internship%20Certificate.png">Cyber Security Intern</a></h2>
-  - <h3><a href="https://github.com/kartik8411/kartik8411/blob/main/Certifications/NullClass.pdf">Learn to Hack Real-Time Operating Systems</h2></a>
-  - <h3><a href="https://github.com/kartik8411/kartik8411/blob/main/Certifications/Codanto%20Internship%20Certificate.png">Web Development Intern at Codanto</a></h2>
-  - <h3><a href="https://github.com/kartik8411/kartik8411/blob/main/Certifications/Avanteia%20Certificate.png">AVANTEIA CERTIFIED CYBER SECURITY USER</h2></a>
-  - <h3><a href="https://github.com/kartik8411/kartik8411/blob/main/Certifications/mastercard%20Certificate.png">Mastercard - Cybersecurity Job Simulation</h2></a>
-  - <h3><a href="https://github.com/kartik8411/kartik8411/blob/main/Certifications/Forage.png">Tata Group - Cybersecurity Analyst Job Simulation</h2></a>
-  - <h3><a href="https://github.com/kartik8411/kartik8411/blob/main/Certifications/udemy.jpg">Bug Bounty - Ethical Hacking</h2></a>
-  - <h3><a href="https://github.com/kartik8411/kartik8411/blob/main/Certifications/EC%20Council%20Certificate.png">SQL Injection - Ec Council</h2></a>
-  - <h3><a href="https://github.com/kartik8411/kartik8411/blob/main/Certifications/Workshop%20Certificate.png">Workshop Course Certificate in Cyber Security – Bhalchandra Technologies</h2></a>
-
  <h1>Resume</h1> 
 
 [Kartik Gupta Resume](https://www.canva.com/design/DAGMmKy0ysg/08d1Uj1N9ONrfqKtqBb2lg/view?utm_content=DAGMmKy0ysg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb150b14e65)
