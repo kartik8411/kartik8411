@@ -24,7 +24,7 @@
 # Work Experiences 
 
 ## Cyber Security Intern |  Avanteia | May-2024  - July 2024(3 months)
-### I did a three-month internship at Avanteia. I learned about various website attacks, such as SQLI, XSS, CSRF, SSRF, Business Logic Vulnerabilities, Brute force, Clickjacking, and Path Traversal. I also learned how to gather info about a website. I used scanning tools, like OWASP ZAP, OpenVAS, NESSUS, and WPscan. I am familiar with Windows, Kali Linux, and Parrot OS. I am also familiar with Burp Suite, Metasploit, Nmap, etc.
+### I did a three-month internship at Avanteia. I learned about various website attacks, such as SQLI, XSS, CSRF, SSRF, Business Logic Vulnerabilities, Brute force, Clickjacking, and Path Traversal. I also learned how to gather info about a website. I used scanning tools, such as  OWASP ZAP, OpenVAS,  and WPscan. I am familiar with Windows, Kali Linux, and Parrot OS. I am also familiar with Burp Suite, Metasploit, Nmap, etc.
 
 
 # Projects
