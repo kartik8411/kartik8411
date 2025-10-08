@@ -48,7 +48,7 @@
 
  <h1>Resume</h1> 
 
-[Kartik Gupta Resume](https://www.canva.com/design/DAGMmKy0ysg/qrERsCg0w_X2VISI8zQSzg/edit?utm_content=DAGMmKy0ysg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Kartik Gupta Resume]()
 
 
 
